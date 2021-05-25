@@ -1,4 +1,4 @@
-# ethereum-cryptography
+# vapory-cryptography
 
 [![npm version][1]][2]
 [![Travis CI][3]][4]
